@@ -1,10 +1,10 @@
-# YouTube Timestamp Saver
+# TimestampYT
 
-YouTube Timestamp Saver is a lightweight Chrome extension that allows users to save important timestamps from YouTube videos for later reference. It is designed to help users quickly mark key moments while watching videos without interrupting playback.
+TimestampYT is a lightweight Chrome extension that allows users to save important timestamps from YouTube videos for later reference. It is designed to help users quickly mark key moments while watching videos without interrupting playback.
 
 ## Overview
 
-YouTube Timestamp Saver provides a simple popup interface where users can save the current timestamp of a YouTube video along with an optional note. Saved timestamps make it easy to return to important moments such as explanations tutorials or highlights.
+TimestampYT provides a simple popup interface where users can save the current timestamp of a YouTube video along with an optional note. Saved timestamps make it easy to return to important moments such as explanations tutorials or highlights.
 
 All saved timestamps are stored locally using Chrome storage and remain available across browser sessions.
 
