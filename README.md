@@ -51,6 +51,12 @@ Enable Developer Mode
 Click Load unpacked  
 Select the dist folder
 
+## Screenshots
+
+![Color Pulse Screenshot](screenshots/ss1.png)
+![Color Pulse Screenshot](screenshots/ss2.png)
+![Color Pulse Screenshot](screenshots/ss3.png)
+
 ## Usage
 
 Open a YouTube video  
